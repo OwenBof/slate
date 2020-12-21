@@ -4,6 +4,8 @@ layout: default
 
 Hello my name is **Owen** and this is my first website.
 
+<img src="https://cdn.joecollyer.com/image/fejka.png" alt="Fejka">
+
 <video width="320" height="240" controls>
   <source src="https://cdn.joecollyer.com/video/gatto.mp4" type="video/mp4">
   <source src="https://cdn.joecollyer.com/video/gatto.mp4" type="video/ogg">
