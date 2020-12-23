@@ -5,6 +5,7 @@ layout: default
 This website currently has no purpose.
 
 <img src="https://owenbof.github.io/cdn/Fejka.png" alt="Fejka">
+
 <img src="https://owenbof.github.io/cdn/Fejka2.jpg" alt="Fejka2">
 
 <video width="320" height="240" controls>
