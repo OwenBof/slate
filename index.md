@@ -7,7 +7,7 @@ This website currently has no purpose.
 ---
 ### BREAKING NEWS
 
-The official Boff's Blog will be available shortly [**here**](https://owenbof.github.io/home/blog)!
+The official Bof's Blog will be available shortly [**here**](https://owenbof.github.io/home/blog)!
 
 ---
 
