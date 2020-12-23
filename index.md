@@ -4,6 +4,15 @@ layout: default
 
 This website currently has no purpose.
 
+---
+### BREAKING NEWS
+
+The official Boff's Blog will be available shortly [**here**](https://owenbof.github.io/home/blog)!
+
+---
+
+
+
 <img src="https://owenbof.github.io/cdn/Fejka.png" alt="Fejka">
 
 <img src="https://owenbof.github.io/cdn/Fejka2.jpg" alt="Fejka2">
