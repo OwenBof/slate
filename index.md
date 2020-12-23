@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello my name is **Owen** and this is my first website.
+This website currently has no purpose.
 
 <img src="https://cdn.joecollyer.com/image/fejka.png" alt="Fejka">
 
