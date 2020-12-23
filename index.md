@@ -4,7 +4,7 @@ layout: default
 
 This website currently has no purpose.
 
-<img src="https://cdn.joecollyer.com/image/fejka.png" alt="Fejka">
+<img src="https://owenbof.github.io/cdn/fejka.png" alt="Fejka">
 
 <video width="320" height="240" controls>
   <source src="https://cdn.joecollyer.com/video/gatto.mp4" type="video/mp4">
