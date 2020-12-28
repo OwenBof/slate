@@ -12,5 +12,3 @@ The first official Bof's Blog is now available [**here**](https://www.owenboffey
 ---
 
 <img src="https://owenbof.github.io/cdn/Fejka.png" alt="Fejka">
-
-</video>
